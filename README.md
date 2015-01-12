@@ -33,3 +33,5 @@
 
 ## Interests
 I love EDM, Super Smash Bros. for Wii U, Mario Kart 8, YouTube, Shopping, and being a Vegan
+
+You can view this text formatted here: https://github.com/dimitriwalters/resume
