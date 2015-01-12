@@ -4,9 +4,8 @@
 
 ## Education
 * University of Waterloo, Class of 2017
-* Computer Science, Honours, Co-operative Program
+* Computer Science/Software Engineering Option, Honours, Co-operative Program
 * Management Studies Minor
-* Software Engineering Option
 
 ## Open Source Contributions
 * Twitter Bootstrap - Fix error in css documentation
