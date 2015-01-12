@@ -26,9 +26,9 @@
 
 ## Projects (repos on GitHub)
 * diary - diary manager developed with a MEAN stack
-* mastermind - the board game MasterMind developed with AngularJS
-* grunt-app-template - starter code to develop an app using grunt
-* browserify-app-template - starter code to develop an app using borwserify
+* mastermind - the boardgame MasterMind developed with Angular
+* grunt-app-template - starter code to develop apps using grunt
+* browserify-app-template - starter code to develop apps using borwserify
 * javascript-handbook - definitions of javascript terminology
 
 ## Interests
