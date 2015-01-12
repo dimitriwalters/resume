@@ -14,9 +14,9 @@
 * Angular Filter - Fix readme file
 
 ## Node Modules (published to npm)
-* randomit
-* binaryrun
-* lispy-arithmetic
+* randomit - Library for miscellaneous random operations
+* binaryrun - Binary string/arrays creator based on run-length
+* lispy-arithmetic - Lisp-inspired airthmetic operations
 
 ## Work Experience
 * 2014/09 - 2014/12: FlashStock
