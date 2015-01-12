@@ -31,3 +31,6 @@
 * grunt-app-template - starter code to develop an app using grunt
 * browserify-app-template - starter code to develop an app using borwserify
 * javascript-handbook - definitions of javascript terminology
+
+## Interests
+I love EDM, Super Smash Bros. for Wii U, Mario Kart 8, YouTube, Shopping, and being a Vegan
