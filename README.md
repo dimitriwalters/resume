@@ -15,7 +15,7 @@
 
 ## Node Modules (published to npm)
 * randomit - Library for miscellaneous random operations
-* binaryrun - Binary string/arrays creator based on run-length
+* binaryrun - Binary string/array creator based on run-length
 * lispy-arithmetic - Lisp-inspired airthmetic operations
 
 ## Work Experience
