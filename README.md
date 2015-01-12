@@ -4,7 +4,7 @@
 
 ## Education
 * University of Waterloo, Class of 2017
-* Honours Bachelors of Computer Science
+* Computer Science, Honours, Co-operative Program
 * Management Studies Minor
 * Software Engineering Option
 
