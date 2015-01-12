@@ -1,5 +1,7 @@
 # Dimitri Walters
 
+(226) 978-3473 | dimi.io | me@dimi.io
+
 ## Education
 * University of Waterloo, Class of 2017
 * Honours Bachelors of Computer Science
